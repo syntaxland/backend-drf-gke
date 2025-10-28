@@ -177,7 +177,7 @@ terraform apply
 
 Planned **RAG + LangChain** microservice to integrate with:
 
-* `frontend-softglobal` (Next.js/TypeScript)
+* `frontend-ts-next` (Next.js/TypeScript)
 * Expose `/api/ask` endpoint for knowledge-based Q&A
 * Uses OpenAI + Vector Store (Astra DB / Pinecone / FAISS)
 
@@ -185,10 +185,10 @@ Planned **RAG + LangChain** microservice to integrate with:
 
 ## 🧑‍💻 Author
 
-**JB (SoftGlobal DevOps & Lead Engineer)**
+**JB (Lead Engineer)**
 
 * 🌐 [softglobal.org](https://softglobal.org)
-* ✉️ [softglobaltester@gmail.com](mailto:jb@softglobal.org)
+* ✉️ [jb@softglobal.org](mailto:jb@softglobal.org)
 
 ---
 
