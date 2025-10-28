@@ -187,7 +187,7 @@ Planned **RAG + LangChain** microservice to integrate with:
 
 **JB (Lead Engineer)**
 
-* 🌐 [softglobal.org](https://softglobal.org)
+* 🌐 [Meet JB](https://softglobal.org/meet-jb)
 * ✉️ [jb@softglobal.org](mailto:jb@softglobal.org)
 
 ---
